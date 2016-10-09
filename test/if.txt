@@ -1,0 +1,21 @@
+a = 10;
+z = 10;
+
+if z == 0 then
+    b = 0;
+elseif z == 1 then
+    b = 1;
+elseif z == 2 then
+    b = 2;
+else
+    b = 3;
+end
+
+c = a + b;
+
+log.info();
+
+c = 100 + 1 + 2;
+
+log.var(a,b,c);
+

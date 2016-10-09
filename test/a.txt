@@ -1,0 +1,48 @@
+--asdjlj;slf
+
+
+--a = 1 >= 3 ; 
+--b = ( 1>= 2) or 4 ;
+
+--a = (not 1) and 4 ;
+
+if a then
+    a = 1;
+    b = 2;
+end
+
+if ( a > 3) and (b > 4) then
+    a = 1;
+end
+
+if a > 10 then
+    b = 2;
+elseif a == 9 then 
+    z = 1;
+elseif a == 8 then
+    z = 2;
+else
+    a = 1;
+end
+
+
+str = "aa\"bb\"cc";
+return;
+
+a = 1;
+
+a = 11111 + b123 + 323  * 499 - 10;
+
+cc = http.get();
+
+dd = string.len(1,23,3 + 4)  + 13;
+
+d = "ab\"cd\"ef" and h;
+
+zz = log.info("hello,world");
+
+--kjsdf
+
+
+return ;
+
